@@ -48,9 +48,4 @@
 - Java JDK 8 or higher
 - Any text editor or IDE (VS Code, IntelliJ IDEA, Eclipse)
 
-### Steps
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Mahin01234/Object-Oriented-Programming.git
-   cd Object-Oriented-Programming
